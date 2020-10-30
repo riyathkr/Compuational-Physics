@@ -12,8 +12,8 @@ In this repository, you can find various numerical algorithms and their applicat
 ## Partial Differential Equations:
 Solved the **heat/diffusion PDE** using analytical methods:-
 1. **Explicit Forward Euler method**
-2. **Implicit Backward Euler method and
-3. **Crank Nicolson method.
+2. **Implicit Backward Euler method** and
+3. **Crank Nicolson method.**
 
 Although I have solved for dirichlet boundary conditions, the code can be easily tweaked for neumann boundary conditions. 
 
