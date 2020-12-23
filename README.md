@@ -17,3 +17,6 @@ Solved the **heat/diffusion PDE** using analytical methods:-
 
 Although I have solved for dirichlet boundary conditions, the code can be easily tweaked for neumann boundary conditions. 
 
+## Monte carlo methods :
+1. Solved an integral (1/1+x^2) in the range [0,1] with and without a weight function using monte carlo methods.
+
